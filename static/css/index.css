@@ -1,0 +1,8 @@
+.test_static_css{
+display: flex;
+justify-content: center;
+color: brown;
+}
+body{
+    background-color: aquamarine !important;
+}

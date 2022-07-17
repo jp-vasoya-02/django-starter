@@ -1,0 +1,4 @@
+.env
+venv
+core/__pycache__/
+video_app/__pycache__/

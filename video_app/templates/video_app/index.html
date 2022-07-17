@@ -1,0 +1,11 @@
+{% extends "video_app/base.html" %}
+{% load static %}
+{% block title %}
+Home
+{% endblock title %}
+{% block css_link %}
+<link rel='stylesheet' href='{% static "css/index.css" %}'/>
+{% endblock css_link %}
+{% block body %}
+<h1 class='test_static_css'>Home, Page</h1>
+{% endblock body %}
